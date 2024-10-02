@@ -49,7 +49,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1521&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit1521&show_icons=true&locale=en" alt="amrit1521" /></p>
 
