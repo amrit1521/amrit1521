@@ -51,6 +51,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1521&layout=compact)]
 
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit1521&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit1521&show_icons=true&locale=en" alt="amrit1521" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit1521&" alt="amrit1521" /></p>
