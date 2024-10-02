@@ -51,3 +51,10 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycosad&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit1521&show_icons=true&locale=en&layout=compact" alt="amrit1521" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit1521&show_icons=true&locale=en" alt="amrit1521" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit1521&" alt="amrit1521" /></p>
