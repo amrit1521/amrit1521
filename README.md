@@ -49,6 +49,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit1521&show_icons=true&locale=en&layout=compact" alt="amrit1521" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit1521&show_icons=true&locale=en" alt="amrit1521" /></p>
