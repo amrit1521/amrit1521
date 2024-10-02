@@ -2,7 +2,8 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=amrit1521&label=Profile%20views&color=fb4362)
+
 
 <h3>When I code, I rely on</h3>
 <p>
