@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit1521" alt="amrit1521" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://amritansh.me/](https://amritansh.me/)]
+- 👨‍💻 All of my projects are available at [https://amritansh.me/](https://amritansh.me/)
 
-- 📝 I regularly write articles on [https://amritansh.me/blog](https://amritansh.me/blog
+- 📝 I regularly write articles on [https://amritansh.me/blog](https://amritansh.me/blog)
 
 - 💬 Ask me about **Node.js,React & Data Science**
 
